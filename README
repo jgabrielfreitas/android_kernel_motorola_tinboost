@@ -1,3 +1,8 @@
+### Guide
+[XDA-Developers](http://forum.xda-developers.com/showthread.php?t=2676423)
+
+
+```
 	Linux kernel release 2.6.xx <http://kernel.org/>
 
 These are the release notes for Linux version 2.6.  Read them carefully,
@@ -373,4 +378,4 @@ IF SOMETHING GOES WRONG:
 
    gdb'ing a non-running kernel currently fails because gdb (wrongly)
    disregards the starting offset for which the kernel is compiled.
-
+```
